@@ -1,6 +1,6 @@
 # Hello World 👋, I'm Anders Kok
 
-- :link: [My website](anderskok.netlify.com)
+- :link: [**My website**](anderskok.netlify.com)
 - :mailbox: **ak.kornerup@gmail.com**
 
 ## Github Stats
